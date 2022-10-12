@@ -1,5 +1,5 @@
 # Natural-language-processing-LSTM ,RNN-
-a <br />in this repository we will discuss basics of NLP and how it works
-b <br />how to install nlp library 
-what is embading vector
-how to to perform pre processing for nlp model
+In this repository we will discuss basics of NLP and how it works <br />
+How to install nlp library <br />
+What is embading vector <br />
+How to to perform pre processing for nlp model<br />
